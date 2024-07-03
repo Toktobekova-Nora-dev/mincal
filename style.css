@@ -1,0 +1,30 @@
+body{
+    background: hsl(105, 75%, 46%);
+    padding-top: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.js-input-a{
+    height: 30px;
+    cursor: pointer;
+    outline: none;
+
+}
+.js-input-b{
+    height: 30px;
+}
+.js-select-operatin{
+    height: 30px;
+    font-size: 20px;
+}
+.js-btn-result{
+    height: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+    box-shadow: 0 0 20px solid #0000;
+}
+.js-btn-result:hover{
+background-color: rgb(147, 165, 42);
+}
